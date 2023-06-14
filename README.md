@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/jrayaquispe/dataviz/actions/workflows/main.yml/badge.svg)](https://github.com/jrayaquispe/dataviz/actions/workflows/main.yml)
+
 # dataviz
 Este es una nuevo proyecto de repositorio
 
